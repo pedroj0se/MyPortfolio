@@ -10,7 +10,7 @@ const Social = () => {
             </a>
 
             <a href="https://www.facebook.com/profile.php?id=100094286504093" className="home__social-icon" >
-                <i class="uil uil-facebook"></i>
+                <i class="uil uil-whatsapp"></i>
             </a>
 
             <a href="https://github.com/" className="home__social-icon" >

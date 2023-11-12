@@ -136,7 +136,7 @@ img {
 
 /*=============== LAYOUT ===============*/
 .container {
-  max-width: 968px;
+  max-width: 1110px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -171,7 +171,7 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1130px) {
   .container {
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
